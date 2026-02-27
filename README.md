@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Hildelbrando%20Lins&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Infraestrutura%20%7C%20Automação%20%7C%20IA%20%7C%20Desenvolvimento&descSize=16&descAlignY=52&descColor=ccc" width="100%" />
-
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:1e3a5f&height=200&section=header&text=Hildelbrando%20Lins&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Infraestrutura%20%7C%20Automação%20%7C%20IA%20%7C%20Desenvolvimento&descSize=16&descAlignY=52&descColor=aaa" width="100%" />
 
 ### Sobre mim
 
@@ -197,4 +194,4 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:1a1a3e,100:0d1117&height=100&section=footer" width="100%" />
