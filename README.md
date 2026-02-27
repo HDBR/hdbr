@@ -21,7 +21,7 @@ Hildelbrando Lins  ·  HDBR Studios
 ### Tech Stack
 
 <details open>
-<summary><b><img src="https://img.shields.io/badge/▸-1e3a5f?style=flat-square" height="14" /> Infraestrutura & DevOps</b></summary>
+<summary><b>Infraestrutura & DevOps</b></summary>
 <br/>
 
 > Orquestração de containers, reverse proxy, monitoramento e CI/CD em ambientes multi-cloud.
@@ -42,7 +42,7 @@ Hildelbrando Lins  ·  HDBR Studios
 </details>
 
 <details open>
-<summary><b><img src="https://img.shields.io/badge/▸-1e3a5f?style=flat-square" height="14" /> Cloud & Hosting</b></summary>
+<summary><b>Cloud & Hosting</b></summary>
 <br/>
 
 > Gestão de servidores dedicados e VPS em múltiplos provedores, com DNS, CDN, storage S3 e certificados SSL automatizados.
@@ -57,7 +57,7 @@ Hildelbrando Lins  ·  HDBR Studios
 </details>
 
 <details open>
-<summary><b><img src="https://img.shields.io/badge/▸-1e3a5f?style=flat-square" height="14" /> Automação & Integrações</b></summary>
+<summary><b>Automação & Integrações</b></summary>
 <br/>
 
 > Workflows de automação empresarial, chatbots conversacionais, integração com WhatsApp, CRM e atendimento ao cliente.
@@ -74,7 +74,7 @@ Hildelbrando Lins  ·  HDBR Studios
 </details>
 
 <details open>
-<summary><b><img src="https://img.shields.io/badge/▸-1e3a5f?style=flat-square" height="14" /> Inteligência Artificial</b></summary>
+<summary><b>Inteligência Artificial</b></summary>
 <br/>
 
 > Agentes autônomos, RAG, integração com LLMs, assistentes conversacionais e processamento de linguagem natural.
@@ -89,7 +89,7 @@ Hildelbrando Lins  ·  HDBR Studios
 </details>
 
 <details open>
-<summary><b><img src="https://img.shields.io/badge/▸-1e3a5f?style=flat-square" height="14" /> Desenvolvimento</b></summary>
+<summary><b>Desenvolvimento</b></summary>
 <br/>
 
 > Aplicações web full stack, landing pages de alta conversão, dashboards, APIs e integrações com serviços externos.
@@ -108,7 +108,7 @@ Hildelbrando Lins  ·  HDBR Studios
 </details>
 
 <details open>
-<summary><b><img src="https://img.shields.io/badge/▸-1e3a5f?style=flat-square" height="14" /> WordPress & E-commerce</b></summary>
+<summary><b>WordPress & E-commerce</b></summary>
 <br/>
 
 > Sites institucionais, lojas virtuais, landing pages com Elementor e WooCommerce. Migração e otimização de performance.
@@ -121,7 +121,7 @@ Hildelbrando Lins  ·  HDBR Studios
 </details>
 
 <details open>
-<summary><b><img src="https://img.shields.io/badge/▸-1e3a5f?style=flat-square" height="14" /> Bancos de Dados & Storage</b></summary>
+<summary><b>Bancos de Dados & Storage</b></summary>
 <br/>
 
 > Bancos relacionais tunados para produção, cache em memória, storage S3-compatible e backup automatizado.
@@ -137,7 +137,7 @@ Hildelbrando Lins  ·  HDBR Studios
 </details>
 
 <details open>
-<summary><b><img src="https://img.shields.io/badge/▸-1e3a5f?style=flat-square" height="14" /> Self-Hosted & Ferramentas</b></summary>
+<summary><b>Self-Hosted & Ferramentas</b></summary>
 <br/>
 
 > Stack completa de ferramentas self-hosted para analytics, agendamento, monitoramento, social media e produtividade.
