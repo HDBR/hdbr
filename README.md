@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:1e3a5f&height=200&section=header&text=Hildelbrando%20Lins&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Infraestrutura%20%7C%20Automação%20%7C%20IA%20%7C%20Desenvolvimento&descSize=16&descAlignY=52&descColor=aaa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,50:1e3a5f,100:2563eb&height=180&section=header&text=HDBR%20Studios&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Infraestrutura%20%7C%20Automação%20%7C%20IA%20%7C%20Desenvolvimento&descSize=16&descAlignY=55&descColor=ccc" width="100%" />
 
-### Sobre mim
-
-Sou o **Hildelbrando**, fundador da **HDBR Studios**. Atuo na interseção entre **infraestrutura cloud**, **automação de processos** e **inteligência artificial**.
+Sou o **Hildelbrando Lins**, fundador da **HDBR Studios**. Atuo na interseção entre **infraestrutura cloud**, **automação de processos** e **inteligência artificial**.
 
 No dia a dia, projeto e gerencio ambientes de produção com **Docker Swarm** e **Kubernetes (K3s)** em múltiplos provedores cloud (Hetzner, Oracle Cloud, Hostinger), construo fluxos de automação complexos com **N8N** e **Typebot** — desde chatbots no WhatsApp até pipelines de dados completos — e desenvolvo aplicações web e APIs com **TypeScript** e **Python**.
 
@@ -194,4 +192,4 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:1a1a3e,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:1a2744&height=100&section=footer" width="100%" />
