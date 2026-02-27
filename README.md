@@ -1,29 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,50:1e3a5f,100:2563eb&height=180&section=header&text=HDBR%20Studios&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Infraestrutura%20%7C%20Automação%20%7C%20IA%20%7C%20Desenvolvimento&descSize=16&descAlignY=55&descColor=ccc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,50:1e3a5f,100:2563eb&height=180&section=header&text=HDBR%20Studios&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%C2%B7%20Automação%20%C2%B7%20IA%20%C2%B7%20Full%20Stack&descSize=16&descAlignY=55&descColor=94a3b8" width="100%" />
 
-Sou o **Hildelbrando Lins**, fundador da **HDBR Studios**. Atuo na interseção entre **infraestrutura cloud**, **automação de processos** e **inteligência artificial**.
+Sou o **Hildelbrando Lins** — engenheiro de infraestrutura, automação e IA. Monto, gerencio e escalo ambientes de produção inteiros: do servidor bare-metal ao agente de IA conversando com o cliente final no WhatsApp.
 
-No dia a dia, projeto e gerencio ambientes de produção com **Docker Swarm** e **Kubernetes (K3s)** em múltiplos provedores cloud (Hetzner, Oracle Cloud, Hostinger), construo fluxos de automação complexos com **N8N** e **Typebot** — desde chatbots no WhatsApp até pipelines de dados completos — e desenvolvo aplicações web e APIs com **TypeScript** e **Python**.
-
-Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otimizado e soberania dos dados. Gerencio mais de **60 serviços** em produção, distribuídos em **6+ servidores**, atendendo múltiplos clientes e projetos.
-
-```
-🏢  HDBR Studios — DevOps, Automação & IA
-🌍  Brasil
-🐳  +60 serviços Docker em produção
-☁️  6+ servidores (Hetzner, Oracle Cloud, Hostinger)
-🤖  Agentes de IA com Claude, GPT e OpenClaw
-```
+Minha filosofia é **self-hosting first** — controle total, custo otimizado, soberania dos dados. Hoje gerencio **+60 serviços Docker** distribuídos em **6+ servidores** (Hetzner, Oracle Cloud, Hostinger), atendendo múltiplos clientes e projetos simultâneos.
 
 ---
 
 ### Tech Stack
 
 <details open>
-<summary><b>🏗️ Infraestrutura & DevOps</b></summary>
+<summary><b>Infraestrutura & DevOps</b></summary>
 <br/>
-
-> Orquestração de containers, reverse proxy, monitoramento e CI/CD em ambientes multi-cloud.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -40,11 +27,8 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & Hosting</b></summary>
+<summary><b>Cloud & Hosting</b></summary>
 <br/>
-
-> Gestão de servidores dedicados e VPS em múltiplos provedores, com DNS, CDN, storage S3 e certificados SSL automatizados.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -55,11 +39,8 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
 </details>
 
 <details open>
-<summary><b>🤖 Automação & Integrações</b></summary>
+<summary><b>Automação & Integrações</b></summary>
 <br/>
-
-> Workflows de automação empresarial, chatbots conversacionais, integração com WhatsApp, CRM e atendimento ao cliente.
-
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Typebot-0042DA?style=for-the-badge&logoColor=white" />
@@ -67,16 +48,13 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
   <img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white" />
   <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhook&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 </details>
 
 <details open>
-<summary><b>🧠 Inteligência Artificial</b></summary>
+<summary><b>Inteligência Artificial</b></summary>
 <br/>
-
-> Agentes autônomos, RAG, integração com LLMs, assistentes conversacionais e processamento de linguagem natural.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -87,11 +65,8 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
 </details>
 
 <details open>
-<summary><b>💻 Desenvolvimento</b></summary>
+<summary><b>Desenvolvimento</b></summary>
 <br/>
-
-> Aplicações web full stack, landing pages de alta conversão, dashboards, APIs e integrações com serviços externos.
-
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -106,11 +81,8 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
 </details>
 
 <details open>
-<summary><b>🌐 WordPress & E-commerce</b></summary>
+<summary><b>WordPress & E-commerce</b></summary>
 <br/>
-
-> Sites institucionais, lojas virtuais, landing pages com Elementor e WooCommerce. Migração e otimização de performance.
-
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
@@ -119,11 +91,8 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
 </details>
 
 <details open>
-<summary><b>🗄️ Bancos de Dados & Storage</b></summary>
+<summary><b>Bancos de Dados & Storage</b></summary>
 <br/>
-
-> Bancos relacionais tunados para produção, cache em memória, storage S3-compatible e backup automatizado.
-
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -135,11 +104,8 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
 </details>
 
 <details open>
-<summary><b>🛠️ Self-Hosted & Ferramentas</b></summary>
+<summary><b>Self-Hosted</b></summary>
 <br/>
-
-> Stack completa de ferramentas self-hosted para analytics, agendamento, monitoramento, social media e produtividade.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Cal.com-292929?style=for-the-badge&logo=caldotcom&logoColor=white" />
@@ -155,20 +121,6 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
 
 ---
 
-### O que eu faço no dia a dia
-
-```text
-🐳  Infraestrutura     ██████████████████░░   90%   Docker Swarm, K3s, Traefik, Portainer
-🤖  Automação           █████████████████░░░   85%   N8N, Typebot, Evolution API, Chatwoot
-🧠  IA & LLMs           ████████████████░░░░   80%   Claude, GPT, Agentes, RAG, OpenClaw
-💻  Desenvolvimento      ███████████████░░░░░   75%   TypeScript, Python, React, Next.js
-☁️  Cloud & Hosting     ███████████████░░░░░   75%   Hetzner, Oracle Cloud, Cloudflare
-🌐  WordPress            ████████████░░░░░░░░   60%   Elementor, WooCommerce, Migrações
-🗄️  Bancos de Dados     ████████████████░░░░   80%   PostgreSQL, MySQL, Redis, MinIO
-```
-
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -178,6 +130,5 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
     <img src="https://streak-stats.demolab.com/?user=hdbr&hide_border=true&locale=pt_BR" />
   </picture>
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:1a2744&height=100&section=footer" width="100%" />
