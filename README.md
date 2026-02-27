@@ -52,6 +52,9 @@ Hildelbrando Lins  ·  HDBR STUDIOS
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Northflank-01E2C0?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
 </p>
 </details>
@@ -69,7 +72,9 @@ Hildelbrando Lins  ·  HDBR STUDIOS
   <img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white" />
   <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhook&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe%20API-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta%20Ads%20API-0081FB?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 </details>
 
