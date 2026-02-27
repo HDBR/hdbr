@@ -179,17 +179,5 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
   </picture>
 </div>
 
----
-
-### Onde me encontrar
-
-<p align="center">
-  <a href="https://hdbr.studio">
-    <img src="https://img.shields.io/badge/hdbr.studio-000000?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  <a href="https://github.com/hdbr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:1a2744&height=100&section=footer" width="100%" />
