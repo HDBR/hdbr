@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Hildelbrando%20Lins&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Infraestrutura%20%7C%20Automação%20%7C%20IA%20%7C%20Desenvolvimento&descSize=16&descAlignY=52&descColor=ccc" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+%26+Cloud+Infrastructure;Automação+Inteligente+com+N8N+%26+Typebot;Agentes+de+IA+com+Claude+%26+GPT;Full+Stack+TypeScript+%26+Python;Docker+Swarm+%7C+Kubernetes+%7C+Self-Hosting;Arquitetura+de+Soluções+Cloud&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=20&duration=4000" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hdbr&color=6C63FF&style=for-the-badge&label=VISITAS" alt="Profile views" />
-</p>
 
 ---
 
@@ -185,47 +178,11 @@ Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otim
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hdbr&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hdbr&theme=default&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-    <img src="https://github-readme-stats.vercel.app/api?username=hdbr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" height="170" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hdbr&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&locale=pt-br" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hdbr&theme=default&layout=compact&hide_border=true&langs_count=8&locale=pt-br" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdbr&layout=compact&hide_border=true&langs_count=8&locale=pt-br" height="170" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hdbr&theme=default&hide_border=true&locale=pt_BR" />
     <img src="https://streak-stats.demolab.com/?user=hdbr&hide_border=true&locale=pt_BR" />
   </picture>
 </div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hdbr&theme=tokyo-night&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hdbr&theme=minimal&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hdbr&hide_border=true&area=true" width="100%" />
-  </picture>
-</div>
-
----
-
-### Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hdbr/hdbr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hdbr/hdbr/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/hdbr/hdbr/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
 ---
 
