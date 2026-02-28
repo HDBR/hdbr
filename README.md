@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,50:1e3a5f,100:2563eb&height=180&section=header&text=HDBR%20STUDIOS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Infraestrutura%20%7C%20Automação%20%7C%20IA%20%7C%20Desenvolvimento&descSize=16&descAlignY=55&descColor=ccc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,50:1e3a5f,100:2563eb&height=180&section=header&text=HDBR%20STUDIOS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-First%20Dev%20%7C%20Infraestrutura%20%7C%20Automação%20%7C%20Full%20Stack&descSize=16&descAlignY=55&descColor=ccc" width="100%" />
 
-Sou o **Hildelbrando Lins**, fundador da **HDBR STUDIOS**. Atuo na interseção entre **infraestrutura cloud**, **automação de processos** e **inteligência artificial**.
+Sou o **Hildelbrando Lins**, fundador da **HDBR STUDIOS** — desenvolvedor que programa **com IA e para IA**. Uso modelos como **Claude** e **GPT** como ferramentas diárias de desenvolvimento, e ao mesmo tempo construo agentes, assistentes e automações inteligentes para clientes.
 
-No dia a dia, projeto e gerencio ambientes de produção com **Docker Swarm** e **Kubernetes (K3s)** em múltiplos provedores cloud (Hetzner, Oracle Cloud, Hostinger), construo fluxos de automação complexos com **N8N** e **Typebot** — desde chatbots no WhatsApp até pipelines de dados completos — e desenvolvo aplicações web e APIs com **TypeScript** e **Python**.
+No dia a dia, projeto e gerencio ambientes de produção com **Docker Swarm** e **Kubernetes (K3s)** em múltiplos provedores cloud, construo fluxos de automação com **N8N** e **Typebot** — desde chatbots no WhatsApp até pipelines de dados completos — e desenvolvo aplicações web, APIs e **agentes de IA** com **TypeScript** e **Python**.
 
-Sou entusiasta do **self-hosting**: controle total da infraestrutura, custo otimizado e soberania dos dados. Gerencio mais de **60 serviços** em produção, distribuídos em **6+ servidores**, atendendo múltiplos clientes e projetos.
+Entusiasta do **self-hosting** e do **AI-first development**: controle total da infraestrutura, custo otimizado e IA integrada em cada camada. Gerencio **+60 serviços** em produção, distribuídos em **6+ servidores**, atendendo múltiplos clientes e projetos.
 
 ```
 Hildelbrando Lins  ·  HDBR STUDIOS
