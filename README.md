@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b82f6,100:60a5fa&height=180&section=header&text=HDBR%20STUDIOS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-First%20Dev%20%7C%20Infraestrutura%20%7C%20Automação%20%7C%20Full%20Stack&descSize=16&descAlignY=55&descColor=ccc" width="100%" />
 
-Sou o **Hildelbrando Lins**, fundador da **HDBR STUDIOS** — desenvolvedor que programa **com IA e para IA**. Uso modelos como **Claude** e **GPT** como ferramentas diárias de desenvolvimento, e ao mesmo tempo construo agentes, assistentes e automações inteligentes para clientes.
+Sou o **Hildelbrando Lins**, fundador da **HDBR STUDIOS** — desenvolvedor que programa **com IA e para IA**. Uso modelos LLM de alta capacidade como ferramentas diárias de desenvolvimento, e ao mesmo tempo construo agentes, assistentes e automações inteligentes para clientes.
 
 No dia a dia, projeto e gerencio ambientes de produção com **Docker Swarm** e **Kubernetes (K3s)** em múltiplos provedores cloud, construo fluxos de automação com **N8N** e **Typebot** — desde chatbots no WhatsApp até pipelines de dados completos — e desenvolvo aplicações web, APIs e **agentes de IA** com **TypeScript** e **Python**.
 
