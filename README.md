@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,50:1e3a5f,100:2563eb&height=180&section=header&text=HDBR%20STUDIOS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-First%20Dev%20%7C%20Infraestrutura%20%7C%20Automação%20%7C%20Full%20Stack&descSize=16&descAlignY=55&descColor=ccc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b82f6,100:60a5fa&height=180&section=header&text=HDBR%20STUDIOS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-First%20Dev%20%7C%20Infraestrutura%20%7C%20Automação%20%7C%20Full%20Stack&descSize=16&descAlignY=55&descColor=ccc" width="100%" />
 
 Sou o **Hildelbrando Lins**, fundador da **HDBR STUDIOS** — desenvolvedor que programa **com IA e para IA**. Uso modelos como **Claude** e **GPT** como ferramentas diárias de desenvolvimento, e ao mesmo tempo construo agentes, assistentes e automações inteligentes para clientes.
 
@@ -187,4 +187,4 @@ Bancos de Dados    ████████████████░░░░ 
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:1a2744&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:3b82f6,100:2563eb&height=100&section=footer" width="100%" />
