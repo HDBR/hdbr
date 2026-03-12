@@ -4,14 +4,14 @@ Sou o **Hildelbrando Lins**, fundador da **HDBR STUDIOS** — desenvolvedor que 
 
 No dia a dia, projeto e gerencio ambientes de produção com **Docker Swarm** e **Kubernetes (K3s)** em múltiplos provedores cloud, construo fluxos de automação com **N8N** e **Typebot** — desde chatbots no WhatsApp até pipelines de dados completos — e desenvolvo aplicações web, APIs e **agentes de IA** com **TypeScript** e **Python**.
 
-Entusiasta do **self-hosting** e do **AI-first development**: controle total da infraestrutura, custo otimizado e IA integrada em cada camada. Gerencio **+60 serviços** em produção, distribuídos em **6+ servidores**, atendendo múltiplos clientes e projetos.
+Entusiasta do **self-hosting** e do **AI-first development**: controle total da infraestrutura, custo otimizado e IA integrada em cada camada. Gerencio **+300 serviços** em produção, distribuídos em **30 servidores**, atendendo múltiplos clientes e projetos.
 
 ```
 Hildelbrando Lins  ·  HDBR STUDIOS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ▸ DevOps, Automação & Inteligência Artificial
-▸ +60 serviços Docker em produção
-▸ 6+ servidores (Hetzner, Oracle Cloud, Hostinger)
+▸ +300 serviços Docker em produção
+▸ 30 servidores (Hetzner, Oracle Cloud, Contabo, AWS)
 ▸ Agentes de IA com Claude, GPT e OpenClaw
 ▸ Brasil
 ```
