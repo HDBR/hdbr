@@ -11,7 +11,7 @@ Hildelbrando Lins  ·  HDBR STUDIOS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ▸ DevOps, Automação & Inteligência Artificial
 ▸ +300 serviços Docker em produção
-▸ 30 servidores (Hetzner, Oracle Cloud, Contabo, AWS)
+▸ 30 servidores (Hetzner, Oracle Cloud, Contabo, Hostinger, AWS)
 ▸ Agentes de IA com Claude, GPT e OpenClaw
 ▸ Brasil
 ```
@@ -50,6 +50,9 @@ Hildelbrando Lins  ·  HDBR STUDIOS
 <p align="center">
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contabo-2B2B2B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -179,11 +182,7 @@ Bancos de Dados    ████████████████░░░░ 
 ### GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hdbr&theme=default&hide_border=true&locale=pt_BR" />
-    <img src="https://streak-stats.demolab.com/?user=hdbr&hide_border=true&locale=pt_BR" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak Stats" />
 </div>
 
 
