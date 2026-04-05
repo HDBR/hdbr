@@ -1,7 +1,5 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b82f6,100:60a5fa&height=180&section=header&text=HDBR%20STUDIOS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-First%20Dev%20%7C%20Infraestrutura%20%7C%20Automação%20%7C%20Full%20Stack&descSize=16&descAlignY=55&descColor=ccc" width="100%" /><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+que+programa+com+IA+e+para+IA;%2B300+servi%C3%A7os+Docker+em+produ%C3%A7%C3%A3o;30+servidores+%7C+5+clouds+%7C+zero+downtime;DevOps+%7C+Automa%C3%A7%C3%A3o+%7C+Agentes+de+IA;TypeScript+%7C+Python+%7C+Docker+Swarm+%7C+K3s;Self-hosting+%26+AI-First+Development;Chatbots+WhatsApp+%7C+N8N+%7C+Typebot;Do+prompt+ao+deploy+em+produ%C3%A7%C3%A3o&font=Fira+Code&size=22&color=60a5fa&center=true&width=700&height=35&duration=2000&pause=800" alt="Typing SVG" /></a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b82f6,100:60a5fa&height=180&section=header&text=HDBR%20STUDIOS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-First%20Dev%20%7C%20Infraestrutura%20%7C%20Automação%20%7C%20Full%20Stack&descSize=16&descAlignY=55&descColor=ccc" width="100%" />
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+que+programa+com+IA+e+para+IA;%2B300+servi%C3%A7os+Docker+em+produ%C3%A7%C3%A3o;30+servidores+%7C+5+clouds+%7C+zero+downtime;DevOps+%7C+Automa%C3%A7%C3%A3o+%7C+Agentes+de+IA;TypeScript+%7C+Python+%7C+Docker+Swarm+%7C+K3s;Self-hosting+%26+AI-First+Development;Chatbots+WhatsApp+%7C+N8N+%7C+Typebot;Do+prompt+ao+deploy+em+produ%C3%A7%C3%A3o&font=Fira+Code&size=18&color=60a5fa&center=true&width=600&height=28&duration=2000&pause=800&vCenter=true" alt="Typing SVG" /></a></div>
 
 Sou o **Hildelbrando Lins**, fundador da **HDBR STUDIOS** — desenvolvedor que programa **com IA e para IA**. Uso modelos LLM de alta capacidade como ferramentas diárias de desenvolvimento, e ao mesmo tempo construo agentes, assistentes e automações inteligentes para clientes.
 
@@ -185,7 +183,7 @@ Bancos de Dados    ████████████████░░░░ 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=800" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=900" alt="GitHub Streak Stats" width="100%" />
 </div>
 
 <div align="center">
