@@ -182,6 +182,10 @@ Bancos de Dados    ████████████████░░░░ 
 ### GitHub Stats
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak Stats" />
 </div>
 
