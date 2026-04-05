@@ -183,7 +183,7 @@ Bancos de Dados    ████████████████░░░░ 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=800" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
