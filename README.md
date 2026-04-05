@@ -182,12 +182,49 @@ Bancos de Dados    ████████████████░░░░ 
 ### GitHub Stats
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak Stats" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak Stats" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
+---
+
+<details>
+<summary><b>🎨 Preview de todos os temas 3D (clique para expandir)</b></summary>
+<br/>
+
+#### Night Green (atual)
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+
+#### Night View (azul escuro)
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+
+#### Night Rainbow (arco-íris)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+#### Green (clássico)
+<img src="./profile-3d-contrib/profile-green.svg" width="100%" />
+
+#### Green Animate (animado)
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+
+#### Season (sazonal norte)
+<img src="./profile-3d-contrib/profile-season.svg" width="100%" />
+
+#### Season Animate (sazonal animado)
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" />
+
+#### South Season (sazonal sul / Brasil)
+<img src="./profile-3d-contrib/profile-south-season.svg" width="100%" />
+
+#### South Season Animate (sazonal sul animado)
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" width="100%" />
+
+#### GitBlock (pixel art)
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:3b82f6,100:2563eb&height=100&section=footer" width="100%" />
