@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b82f6,100:60a5fa&height=180&section=header&text=HDBR%20STUDIOS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-First%20Dev%20%7C%20Infraestrutura%20%7C%20Automação%20%7C%20Full%20Stack&descSize=16&descAlignY=55&descColor=ccc" width="100%" />
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI-First+Developer;%2B300+servi%C3%A7os+em+produ%C3%A7%C3%A3o;30+servidores+multi-cloud;DevOps+%7C+Automa%C3%A7%C3%A3o+%7C+IA;TypeScript+%7C+Python+%7C+Docker&font=Fira+Code&size=22&color=3b82f6&center=true&width=600&height=60&duration=3000&pause=1000" alt="Typing SVG" />
+  </a>
+</div>
+
 Sou o **Hildelbrando Lins**, fundador da **HDBR STUDIOS** — desenvolvedor que programa **com IA e para IA**. Uso modelos LLM de alta capacidade como ferramentas diárias de desenvolvimento, e ao mesmo tempo construo agentes, assistentes e automações inteligentes para clientes.
 
 No dia a dia, projeto e gerencio ambientes de produção com **Docker Swarm** e **Kubernetes (K3s)** em múltiplos provedores cloud, construo fluxos de automação com **N8N** e **Typebot** — desde chatbots no WhatsApp até pipelines de dados completos — e desenvolvo aplicações web, APIs e **agentes de IA** com **TypeScript** e **Python**.
@@ -186,45 +192,11 @@ Bancos de Dados    ████████████████░░░░ 
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
----
-
-<details>
-<summary><b>🎨 Preview de todos os temas 3D (clique para expandir)</b></summary>
-<br/>
-
-#### Night Green (atual)
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
-
-#### Night View (azul escuro)
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
-
-#### Night Rainbow (arco-íris)
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-
-#### Green (clássico)
-<img src="./profile-3d-contrib/profile-green.svg" width="100%" />
-
-#### Green Animate (animado)
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
-
-#### Season (sazonal norte)
-<img src="./profile-3d-contrib/profile-season.svg" width="100%" />
-
-#### Season Animate (sazonal animado)
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" />
-
-#### South Season (sazonal sul / Brasil)
-<img src="./profile-3d-contrib/profile-south-season.svg" width="100%" />
-
-#### South Season Animate (sazonal sul animado)
-<img src="./profile-3d-contrib/profile-south-season-animate.svg" width="100%" />
-
-#### GitBlock (pixel art)
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
-
-</details>
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:3b82f6,100:2563eb&height=100&section=footer" width="100%" />
